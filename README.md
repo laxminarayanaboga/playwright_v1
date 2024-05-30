@@ -12,3 +12,11 @@ link: https://www.youtube.com/playlist?list=PLBw1ubD1J1UgkIbyIpqAFnSp8fVJw5cRH
 - running test with specific title: `npx playwright test -g "orange hrm url validation" --headed`
 - running test with specifc project / browser: `npx playwright test orange-hrm-url.spec.js --project=chromium --headed`
 - control the number of workers: `npx playwright test orange --headed --workers 5`
+
+## report
+- Access the html report: playwright-report/index.html
+
+## codegen
+- codegen is a playwright feature to generate the tests from user actions. 
+- Run the command `npx playwright codegen`
+
