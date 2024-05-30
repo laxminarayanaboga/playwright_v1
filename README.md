@@ -19,4 +19,5 @@ link: https://www.youtube.com/playlist?list=PLBw1ubD1J1UgkIbyIpqAFnSp8fVJw5cRH
 ## codegen
 - codegen is a playwright feature to generate the tests from user actions. 
 - Run the command `npx playwright codegen`
+- codegen comes with many options. run `npx playwright codegen -h`
 
