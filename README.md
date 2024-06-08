@@ -26,5 +26,8 @@ link: https://www.youtube.com/playlist?list=PLBw1ubD1J1UgkIbyIpqAFnSp8fVJw5cRH
 - Playwright Trace Viewer is a GUI tool that helps you explore recorded Playwright traces after the script has ran.
 - after execution run comamnd: `npx playwright show-report`
 
+## APIs
+- test apis: https://jsonplaceholder.typicode.com/
+
 ## Misc
 - For locators try the chrome extension - `SelectorsHub`
