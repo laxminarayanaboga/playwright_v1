@@ -1,4 +1,5 @@
 # PLAYWRIGHT example project. 
+- Ref: https://playwright.dev/docs/intro
 
 ## learning
 Thanks to Testing Funda by Zeeshan Asghar
@@ -21,3 +22,9 @@ link: https://www.youtube.com/playlist?list=PLBw1ubD1J1UgkIbyIpqAFnSp8fVJw5cRH
 - Run the command `npx playwright codegen`
 - codegen comes with many options. run `npx playwright codegen -h`
 
+## trace viewer
+- Playwright Trace Viewer is a GUI tool that helps you explore recorded Playwright traces after the script has ran.
+- after execution run comamnd: `npx playwright show-report`
+
+## Misc
+- For locators try the chrome extension - `SelectorsHub`
